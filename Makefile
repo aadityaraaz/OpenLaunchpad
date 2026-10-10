@@ -1,4 +1,4 @@
-.PHONY: build test app run
+.PHONY: build test app run release
 build:
 	swift build
 test:
@@ -7,3 +7,5 @@ app:
 	./scripts/build-app.sh
 run: app
 	open dist/OpenLaunchpad.app
+release:
+	./scripts/package-release.sh

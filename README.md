@@ -18,6 +18,20 @@ Real screenshots of OpenLaunchpad running on macOS 27. App icons and wallpaper b
 
 ## Build and run
 
+### Download the public preview
+
+Download **OpenLaunchpad v0.1.0** from [GitHub Releases](https://github.com/aadityaraaz/OpenLaunchpad/releases/tag/v0.1.0).
+
+- **Requirements:** Apple silicon Mac running macOS 26 or later. This release does not include an Intel executable.
+- **DMG:** open the disk image and drag OpenLaunchpad into Applications.
+- **ZIP:** extract the archive and move OpenLaunchpad.app into Applications.
+- **Signing:** this preview is ad-hoc signed and not notarized. macOS may block its first launch; after attempting to open it, use System Settings → Privacy & Security → Open Anyway if you choose to run it.
+- **Verification:** compare the download against the release's `SHA256SUMS.txt` with `shasum -a 256 <downloaded-file>`.
+
+Read the [changelog](CHANGELOG.md) for features and release limitations.
+
+### Build from source
+
 Requires macOS 26+, Swift 6.2+, and the macOS 26+ SDK (Xcode or Command Line Tools). No third-party dependencies or package downloads.
 
 ```sh
@@ -37,6 +51,8 @@ make test
 ```
 
 The checks use a standalone executable instead of XCTest/Swift Testing, so they also run with Apple's Command Line Tools, which do not ship those test frameworks. `swift test` is not this project's test command.
+
+To create release ZIP/DMG assets and checksums for the current machine's architecture, run `make release`. Output is written to `dist/releases/`.
 
 ## Features
 

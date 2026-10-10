@@ -1,5 +1,13 @@
 # Validation
 
+## Public preview 0.1.0 package checks
+
+- `make test`: 17 core and 24 integration checks passed before packaging.
+- `make release`: optimized arm64 application, ZIP, DMG, and SHA-256 manifest generated.
+- Extracted the ZIP and ran its application binary's 24 integration self-checks successfully.
+- Strict ad-hoc signature verification passed for the extracted ZIP app and read-only mounted DMG app. DMG integrity verification passed; the two packaged executables matched, and the DMG's Applications shortcut resolved correctly.
+- Both downloads passed `shasum -a 256 -c SHA256SUMS.txt`. No Developer ID certificate was available; these assets are not notarized. Intel execution was not tested or included.
+
 Host: macOS 27.0.1 (26A434), Apple silicon, Swift 6.4, Command Line Tools with the macOS 27 SDK.
 
 ## Automated
