@@ -1,0 +1,4246 @@
+{
+  "reviewed_at": "2026-10-10T08:39:07.116999+00:00",
+  "sitemap": "https://launchosapp.com/sitemap.xml",
+  "pages": [
+    {
+      "url": "https://launchosapp.com/",
+      "status": 200,
+      "title": "LaunchOS for Mac — Best Launchpad Alternative for macOS 26 & 27",
+      "text_characters": 12333,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "window",
+        "multi-select",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/de/creator-program/",
+      "status": 200,
+      "title": "Creator Review Programm - LaunchOS",
+      "text_characters": 2867,
+      "feature_topics": [
+        "update"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/de/free-event/",
+      "status": 200,
+      "title": "LaunchOS Pro kostenlos erhalten - LaunchOS",
+      "text_characters": 6065,
+      "feature_topics": [
+        "pinch",
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/article/en/creator-program/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/en/creator-program/",
+      "status": 200,
+      "title": "Creator Review Program - LaunchOS",
+      "text_characters": 2450,
+      "feature_topics": [
+        "update"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/en/free-event/",
+      "status": 200,
+      "title": "Claim LaunchOS Pro for Free - LaunchOS",
+      "text_characters": 5140,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/fr/creator-program/",
+      "status": 200,
+      "title": "Programme pour les créateurs et testeurs - LaunchOS",
+      "text_characters": 2989,
+      "feature_topics": [],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/fr/free-event/",
+      "status": 200,
+      "title": "Obtenez LaunchOS Pro gratuitement - LaunchOS",
+      "text_characters": 6078,
+      "feature_topics": [
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/ja/creator-program/",
+      "status": 200,
+      "title": "クリエイター・レビュープログラム - LaunchOS",
+      "text_characters": 1455,
+      "feature_topics": [],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/ja/free-event/",
+      "status": 200,
+      "title": "LaunchOS Pro 無料プレゼントキャンペーン - LaunchOS",
+      "text_characters": 2959,
+      "feature_topics": [
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/zh-TW/creator-program/",
+      "status": 200,
+      "title": "創作者評測計劃 - LaunchOS",
+      "text_characters": 985,
+      "feature_topics": [],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/zh-TW/free-event/",
+      "status": 200,
+      "title": "免費領取 LaunchOS 專業版活動 - LaunchOS",
+      "text_characters": 2115,
+      "feature_topics": [
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/zh/creator-program/",
+      "status": 200,
+      "title": "博主评测计划 - LaunchOS",
+      "text_characters": 964,
+      "feature_topics": [],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/article/zh/free-event/",
+      "status": 200,
+      "title": "免费领取 LaunchOS Pro 活动 - LaunchOS",
+      "text_characters": 2081,
+      "feature_topics": [
+        "F4",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/best-launchpad-alternative/",
+      "status": 200,
+      "title": "Best Launchpad Alternative for macOS 26 | LaunchOS",
+      "text_characters": 12222,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/best-mac-launcher/",
+      "status": 200,
+      "title": "Best Mac Launcher for Visual App Browsing | LaunchOS",
+      "text_characters": 12175,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/",
+      "status": 200,
+      "title": "LaunchOS Features Blog | LaunchOS",
+      "text_characters": 5706,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/best-launchpad-alternatives-for-macos-26/",
+        "/blog/en/bring-back-old-launchpad-experience-mac/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/en/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/en/how-to-bring-back-launchpad-on-macos-tahoe/",
+        "/blog/en/how-to-get-launchpad-back-on-dock/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/en/how-to-get-launchpad-back/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/en/introducing-launchos/",
+        "/blog/en/launchos-v2-rebuild/",
+        "/blog/en/launchpad-alternatives/",
+        "/blog/en/macos-27-app-launching-change/",
+        "/blog/en/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+        "/blog/en/organize-apps-on-mac-without-launchpad/",
+        "/blog/en/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/blog/en/use-folders-after-launchpad-removed/",
+        "/blog/en/what-makes-launchos-different/",
+        "/blog/en/why-apple-removed-launchpad/",
+        "/blog/en/why-we-built-launchos/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "Beste Launchpad Alternativen für macOS 26 - LaunchOS",
+      "text_characters": 11004,
+      "feature_topics": [
+        "hot corner",
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/bring-back-old-launchpad-experience-mac/",
+        "/blog/de/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/de/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "Altes Launchpad Erlebnis auf dem Mac zurückholen - LaunchOS",
+      "text_characters": 10957,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/de/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/bring-back-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Hat Apple Launchpad in macOS 27 zurückgebracht? - LaunchOS",
+      "text_characters": 7897,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "Hat Apple Launchpad in macOS 26 entfernt? - LaunchOS",
+      "text_characters": 10319,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "Launchpad auf macOS Tahoe zurückholen - LaunchOS",
+      "text_characters": 5287,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "Launchpad aus dem Dock verschwunden? So fügst du es auf dem Mac wieder hinzu - LaunchOS",
+      "text_characters": 8272,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "Launchpad auf macOS 26 oder macOS 27 zurückholen - LaunchOS",
+      "text_characters": 10800,
+      "feature_topics": [
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/de/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/restore-launchpad/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "Launchpad auf macOS 26 Tahoe zurückholen (Februar 2026) - LaunchOS",
+      "text_characters": 9870,
+      "feature_topics": [
+        "hot corner",
+        "backup",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "Altes Launchpad Erlebnis auf macOS 27 zurückholen - LaunchOS",
+      "text_characters": 8619,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/introducing-launchos/",
+      "status": 200,
+      "title": "LaunchOS: ein flüssiger, nativer Launchpad Ersatz für macOS 26 - LaunchOS",
+      "text_characters": 2977,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2: Warum wir uns entschieden haben, von Grund auf neu aufzubauen - LaunchOS",
+      "text_characters": 10644,
+      "feature_topics": [
+        "hot corner",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/launchpad-alternatives/",
+      "status": 200,
+      "title": "Was Mac Nutzer statt Launchpad verwenden - LaunchOS",
+      "text_characters": 4795,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "Kein Launchpad in macOS 27: Apps öffnen und durchsuchen - LaunchOS",
+      "text_characters": 10028,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/de/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/de/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "Apple hat Launchpad entfernt – wir haben 5 Monate lang einen besseren Ersatz entwickelt - LaunchOS",
+      "text_characters": 5867,
+      "feature_topics": [
+        "hot corner",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "So organisieren Sie Apps auf dem Mac ohne Launchpad - LaunchOS",
+      "text_characters": 10262,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/best-launchpad-alternatives-for-macos-26/",
+        "/blog/de/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "Sollten Sie von macOS 15 auf macOS 27 upgraden? - LaunchOS",
+      "text_characters": 12603,
+      "feature_topics": [
+        "backup",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "App Ordner nach der Entfernung von Launchpad wieder verwenden - LaunchOS",
+      "text_characters": 11345,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/blog/de/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/de/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/what-makes-launchos-different/",
+      "status": 200,
+      "title": "Was LaunchOS von anderen Launchpad Alternativen unterscheidet - LaunchOS",
+      "text_characters": 8109,
+      "feature_topics": [
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "Warum hat Apple Launchpad entfernt? - LaunchOS",
+      "text_characters": 8479,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/de/why-we-built-launchos/",
+      "status": 200,
+      "title": "Warum wir LaunchOS gebaut haben - LaunchOS",
+      "text_characters": 6664,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/de/creator-program/",
+        "/article/de/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "Best Launchpad Alternatives for macOS 26 - LaunchOS",
+      "text_characters": 9267,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/bring-back-old-launchpad-experience-mac/",
+        "/blog/en/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "How to Bring Back the Old Launchpad Experience on Mac - LaunchOS",
+      "text_characters": 9301,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "window",
+        "Dock",
+        "color",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/bring-back-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Did Apple Bring Launchpad Back in macOS 27? - LaunchOS",
+      "text_characters": 6823,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "Did Apple Remove Launchpad in macOS 26? - LaunchOS",
+      "text_characters": 8825,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "color",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "How to bring back Launchpad on macOS Tahoe - LaunchOS",
+      "text_characters": 4488,
+      "feature_topics": [
+        "folder",
+        "window",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "How to Get Launchpad Back on the Dock on Mac - LaunchOS",
+      "text_characters": 7109,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "How to Get Launchpad Back on macOS 26 or macOS 27 - LaunchOS",
+      "text_characters": 9168,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "window",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/restore-launchpad/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "How to Get Launchpad Back on macOS 26 Tahoe (Feb 2026) - LaunchOS",
+      "text_characters": 8729,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "backup",
+        "window",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "How to Get the Old Launchpad Experience Back on macOS 27 - LaunchOS",
+      "text_characters": 7277,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/introducing-launchos/",
+      "status": 200,
+      "title": "Introducing LaunchOS — a smoother, more native replacement for the macOS 26 Launchpad - LaunchOS",
+      "text_characters": 2624,
+      "feature_topics": [
+        "folder",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2: Why We Decided to Rebuild from the Ground Up - LaunchOS",
+      "text_characters": 9250,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/launchpad-alternatives/",
+      "status": 200,
+      "title": "What Are Mac Users Replacing Launchpad With After It Disappeared? - LaunchOS",
+      "text_characters": 4158,
+      "feature_topics": [
+        "folder",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "No Launchpad in macOS 27: How to Open and Browse Apps - LaunchOS",
+      "text_characters": 8123,
+      "feature_topics": [
+        "folder",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/en/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "Apple Removed Launchpad, So We Spent 5 Months Building a Better One - LaunchOS",
+      "text_characters": 5133,
+      "feature_topics": [
+        "gesture",
+        "uninstall",
+        "hot corner",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "How to Organize Apps on Mac Without Launchpad - LaunchOS",
+      "text_characters": 8494,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/best-launchpad-alternatives-for-macos-26/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "Should You Upgrade from macOS 15 to macOS 27? - LaunchOS",
+      "text_characters": 10950,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "backup",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "How to Use App Folders Again After Launchpad Was Removed - LaunchOS",
+      "text_characters": 9462,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "window",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/en/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/what-makes-launchos-different/",
+      "status": 200,
+      "title": "What Makes LaunchOS Different from Other Launchpad Alternatives - LaunchOS",
+      "text_characters": 6922,
+      "feature_topics": [
+        "folder",
+        "hot corner",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "Why Did Apple Remove the Launchpad? - LaunchOS",
+      "text_characters": 7218,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/en/why-we-built-launchos/",
+      "status": 200,
+      "title": "Why We Built LaunchOS - LaunchOS",
+      "text_characters": 5725,
+      "feature_topics": [
+        "folder",
+        "uninstall",
+        "F4",
+        "Dock",
+        "color",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "Meilleures alternatives à Launchpad pour macOS 26 - LaunchOS",
+      "text_characters": 11860,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/bring-back-old-launchpad-experience-mac/",
+        "/blog/fr/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/fr/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "Comment retrouver l’ancien Launchpad sur Mac - LaunchOS",
+      "text_characters": 11917,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/fr/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/bring-back-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Apple a-t-il rétabli Launchpad dans macOS 27 ? - LaunchOS",
+      "text_characters": 8739,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "Apple a-t-il supprimé Launchpad dans macOS 26 ? - LaunchOS",
+      "text_characters": 11332,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "Comment retrouver Launchpad sur macOS Tahoe - LaunchOS",
+      "text_characters": 5737,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "Launchpad a disparu du Dock ? Comment le remettre sur Mac - LaunchOS",
+      "text_characters": 8569,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "Comment retrouver Launchpad sur macOS 26 et macOS 27 - LaunchOS",
+      "text_characters": 11535,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/fr/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/restore-launchpad/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "Comment récupérer Launchpad sur macOS 26 Tahoe - LaunchOS",
+      "text_characters": 10731,
+      "feature_topics": [
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "Comment retrouver l’ancien Launchpad sur macOS 27 - LaunchOS",
+      "text_characters": 9422,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/introducing-launchos/",
+      "status": 200,
+      "title": "LaunchOS : une alternative native à Launchpad pour macOS - LaunchOS",
+      "text_characters": 3145,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2 : pourquoi nous avons tout reconstruit - LaunchOS",
+      "text_characters": 11656,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/launchpad-alternatives/",
+      "status": 200,
+      "title": "Par quoi remplacer Launchpad sur macOS Tahoe ? - LaunchOS",
+      "text_characters": 5150,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "Pas de Launchpad dans macOS 27 : comment ouvrir ses apps - LaunchOS",
+      "text_characters": 10693,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/fr/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/fr/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "Apple a supprimé Launchpad : nous avons créé une alternative - LaunchOS",
+      "text_characters": 6207,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "Comment organiser ses apps sur Mac sans Launchpad - LaunchOS",
+      "text_characters": 11243,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/best-launchpad-alternatives-for-macos-26/",
+        "/blog/fr/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "Faut-il passer de macOS 15 à macOS 27 sans Launchpad ? - LaunchOS",
+      "text_characters": 13990,
+      "feature_topics": [
+        "window",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "Comment retrouver les dossiers d’apps sans Launchpad - LaunchOS",
+      "text_characters": 12970,
+      "feature_topics": [
+        "hot corner",
+        "F4",
+        "Dock",
+        "alias",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/blog/fr/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/fr/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/what-makes-launchos-different/",
+      "status": 200,
+      "title": "Pourquoi LaunchOS est une alternative différente à Launchpad - LaunchOS",
+      "text_characters": 8753,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "Pourquoi Apple a-t-il supprimé Launchpad ? - LaunchOS",
+      "text_characters": 8831,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/fr/why-we-built-launchos/",
+      "status": 200,
+      "title": "Pourquoi nous avons créé LaunchOS - LaunchOS",
+      "text_characters": 7294,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/fr/creator-program/",
+        "/article/fr/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "macOS 26 におすすめの Launchpad 代替アプリ - LaunchOS",
+      "text_characters": 5070,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/blog/ja/bring-back-old-launchpad-experience-mac/",
+        "/blog/ja/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/ja/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/best-launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "Macで昔のLaunchpad体験を再現する方法 - LaunchOS",
+      "text_characters": 4693,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Apple は macOS 27 で Launchpad を復活させた？ - LaunchOS",
+      "text_characters": 4035,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "AppleはmacOS 26でLaunchpadを削除したのか？ - LaunchOS",
+      "text_characters": 4774,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "macOS TahoeでLaunchpad（起動台）を復活させる方法 - LaunchOS",
+      "text_characters": 2839,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "DockからLaunchpadが消えた？Macで再び追加する方法 - LaunchOS",
+      "text_characters": 4139,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "macOS 26でLaunchpadを取り戻す方法 - LaunchOS",
+      "text_characters": 4739,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "macOS 26 TahoeでLaunchpadを元に戻す方法 (2026年2月版) - LaunchOS",
+      "text_characters": 5010,
+      "feature_topics": [
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "macOS 27 で旧 Launchpad 体験を取り戻す方法 - LaunchOS",
+      "text_characters": 4114,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/introducing-launchos/",
+      "status": 200,
+      "title": "LaunchOSのご紹介 — macOS 26 Launchpadのよりスムーズでネイティブな代替ツール - LaunchOS",
+      "text_characters": 1685,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2：なぜ私たちはゼロから作り直すことにしたのか - LaunchOS",
+      "text_characters": 4731,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/launchpad-alternatives/",
+      "status": 200,
+      "title": "Launchpadがなくなったあと、Macユーザーは何を使っているのか？ - LaunchOS",
+      "text_characters": 2120,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/best-launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "macOS 27でLaunchpadがないとき、アプリを開く・探すには？ - LaunchOS",
+      "text_characters": 4345,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/blog/ja/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/ja/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/ja/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "AppleがLaunchpadを廃止。私たちは5ヶ月かけて、より使いやすいものを作りました。 - LaunchOS",
+      "text_characters": 2916,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "LaunchpadがないMacでアプリを整理する方法 - LaunchOS",
+      "text_characters": 4410,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/blog/ja/best-launchpad-alternatives-for-macos-26/",
+        "/blog/ja/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "macOS 15 から macOS 27 にアップグレードすべき？ - LaunchOS",
+      "text_characters": 4805,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/blog/ja/did-apple-bring-launchpad-back-in-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "Launchpad がなくなった後に App フォルダをもう一度使う方法 - LaunchOS",
+      "text_characters": 5243,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/blog/ja/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/ja/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/what-makes-launchos-different/",
+      "status": 200,
+      "title": "LaunchOSが他のLaunchpad代替ツールと一線を画す理由 - LaunchOS",
+      "text_characters": 3855,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "なぜAppleはLaunchpadを廃止したのか？ - LaunchOS",
+      "text_characters": 3766,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/ja/why-we-built-launchos/",
+      "status": 200,
+      "title": "なぜLaunchOSを作ったのか - LaunchOS",
+      "text_characters": 3127,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/ja/creator-program/",
+        "/article/ja/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "macOS 26 上最好的 Launchpad 替代工具 - LaunchOS",
+      "text_characters": 4202,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/blog/zh-TW/bring-back-old-launchpad-experience-mac/",
+        "/blog/zh-TW/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/zh-TW/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "如何在 Mac 上重建舊 Launchpad 體驗 - LaunchOS",
+      "text_characters": 3753,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Apple 在 macOS 27 裡把 Launchpad 帶回來了嗎？ - LaunchOS",
+      "text_characters": 3421,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "Apple 在 macOS 26 移除了 Launchpad 嗎？ - LaunchOS",
+      "text_characters": 4033,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "如何在 macOS Tahoe 中找回 Launchpad 啟動台 - LaunchOS",
+      "text_characters": 2144,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "Mac 啟動台從 Dock 消失了？如何重新加入 Launchpad - LaunchOS",
+      "text_characters": 3142,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "如何在 macOS 26 找回 Launchpad - LaunchOS",
+      "text_characters": 3892,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "macOS 26 Tahoe 啟動台恢復方法（2026.2） - LaunchOS",
+      "text_characters": 3512,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "如何在 macOS 27 上找回舊 Launchpad 體驗 - LaunchOS",
+      "text_characters": 3357,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/introducing-launchos/",
+      "status": 200,
+      "title": "LaunchOS —— 為 macOS 26 打造更流暢、更具原生感的啟動台替代方案 - LaunchOS",
+      "text_characters": 1346,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2：我們為什麼決定推倒重來 - LaunchOS",
+      "text_characters": 3347,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/launchpad-alternatives/",
+      "status": 200,
+      "title": "macOS 26／27 啟動台替代方案：如何找回熟悉的 Launchpad？ - LaunchOS",
+      "text_characters": 1936,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-alternative/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "macOS 27 沒有 Launchpad，怎麼開啟和瀏覽 App？ - LaunchOS",
+      "text_characters": 3677,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/blog/zh-TW/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/zh-TW/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/zh-TW/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "蘋果移除了啟動台，我們花了 5 個月做了一個更好用的 - LaunchOS",
+      "text_characters": 1933,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "沒有 Launchpad 後，如何整理 Mac 上的 App - LaunchOS",
+      "text_characters": 3681,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/blog/zh-TW/best-launchpad-alternatives-for-macos-26/",
+        "/blog/zh-TW/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "我應該從 macOS 15 升級到 macOS 27 嗎？ - LaunchOS",
+      "text_characters": 4083,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/blog/zh-TW/did-apple-bring-launchpad-back-in-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "Launchpad 被移除後，如何重新使用 App 檔案夾 - LaunchOS",
+      "text_characters": 4107,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/blog/zh-TW/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/zh-TW/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/what-makes-launchos-different/",
+      "status": 200,
+      "title": "LaunchOS 相比其他同類啟動台替代品，有何與眾不同？ - LaunchOS",
+      "text_characters": 2476,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "為什麼蘋果移除了啟動台？ - LaunchOS",
+      "text_characters": 2452,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh-TW/why-we-built-launchos/",
+      "status": 200,
+      "title": "我們為什麼要打造 LaunchOS？ - LaunchOS",
+      "text_characters": 2032,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh-TW/creator-program/",
+        "/article/zh-TW/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/best-launchpad-alternatives-for-macos-26/",
+      "status": 200,
+      "title": "macOS 26 上最好的 Launchpad 替代工具 - LaunchOS",
+      "text_characters": 4170,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/blog/zh/bring-back-old-launchpad-experience-mac/",
+        "/blog/zh/did-apple-remove-launchpad-in-macos-26/",
+        "/blog/zh/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-launchie/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/best-launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/bring-back-old-launchpad-experience-mac/",
+      "status": 200,
+      "title": "如何在 Mac 上重建旧 Launchpad 体验 - LaunchOS",
+      "text_characters": 3727,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/did-apple-bring-launchpad-back-in-macos-27/",
+      "status": 200,
+      "title": "Apple 在 macOS 27 里把 Launchpad 带回来了吗？ - LaunchOS",
+      "text_characters": 3345,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/did-apple-remove-launchpad-in-macos-26/",
+      "status": 200,
+      "title": "Apple 在 macOS 26 移除了 Launchpad 吗？ - LaunchOS",
+      "text_characters": 4006,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-missing/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/how-to-bring-back-launchpad-on-macos-tahoe/",
+      "status": 200,
+      "title": "如何在 macOS Tahoe 中找回 Launchpad 启动台 - LaunchOS",
+      "text_characters": 2092,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/how-to-get-launchpad-back-on-dock/",
+      "status": 200,
+      "title": "Mac 启动台从 Dock 消失了？如何重新添加 Launchpad - LaunchOS",
+      "text_characters": 3002,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/how-to-get-launchpad-back-on-macos-26/",
+      "status": 200,
+      "title": "如何在 macOS 26 找回 Launchpad - LaunchOS",
+      "text_characters": 3879,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/how-to-get-launchpad-back/",
+      "status": 200,
+      "title": "macOS 26 Tahoe 启动台恢复方法（2026.2） - LaunchOS",
+      "text_characters": 3480,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/how-to-get-old-launchpad-experience-back-on-macos-27/",
+      "status": 200,
+      "title": "如何在 macOS 27 上找回旧 Launchpad 体验 - LaunchOS",
+      "text_characters": 3273,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/introducing-launchos/",
+      "status": 200,
+      "title": "认识一下 LaunchOS：一个更流畅、更具原生感的 macOS 26 启动台替代方案 - LaunchOS",
+      "text_characters": 1364,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-replacement/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/launchos-v2-rebuild/",
+      "status": 200,
+      "title": "LaunchOS V2：我们为什么决定推倒重来 - LaunchOS",
+      "text_characters": 3295,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/launchpad-alternatives/",
+      "status": 200,
+      "title": "启动台消失后，Mac 用户都在用什么替代？ - LaunchOS",
+      "text_characters": 1680,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/best-launchpad-alternative/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/macos-27-app-launching-change/",
+      "status": 200,
+      "title": "macOS 27 没有 Launchpad，怎么打开和浏览应用？ - LaunchOS",
+      "text_characters": 3612,
+      "feature_topics": [
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/blog/zh/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/zh/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/blog/zh/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/macos26-removed-launchpad-and-we-spent-5-months-building-a-better-one/",
+      "status": 200,
+      "title": "苹果移除了启动台，我们花了 5 个月做了一个更好用的 - LaunchOS",
+      "text_characters": 1913,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/launchpad-for-macos-tahoe/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/organize-apps-on-mac-without-launchpad/",
+      "status": 200,
+      "title": "没有 Launchpad 后，如何整理 Mac 上的 App - LaunchOS",
+      "text_characters": 3678,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/blog/zh/best-launchpad-alternatives-for-macos-26/",
+        "/blog/zh/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/should-you-upgrade-from-macos-15-to-macos-27-if-you-use-launchpad/",
+      "status": 200,
+      "title": "我应该从 macOS 15 升级到 macOS 27 吗？ - LaunchOS",
+      "text_characters": 5620,
+      "feature_topics": [
+        "window",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/use-folders-after-launchpad-removed/",
+      "status": 200,
+      "title": "Launchpad 被移除后，如何重新使用 App 文件夹 - LaunchOS",
+      "text_characters": 4079,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/blog/zh/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/zh/organize-apps-on-mac-without-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/",
+        "https://launchosapp.com/bring-back-launchpad/",
+        "https://launchosapp.com/restore-launchpad/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/what-makes-launchos-different/",
+      "status": 200,
+      "title": "LaunchOS 相比其他同类启动台替代品，有何与众不同？ - LaunchOS",
+      "text_characters": 2452,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/why-apple-removed-launchpad/",
+      "status": 200,
+      "title": "为什么苹果移除了启动台？ - LaunchOS",
+      "text_characters": 2440,
+      "feature_topics": [
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/blog/zh/why-we-built-launchos/",
+      "status": 200,
+      "title": "我们为什么要打造 LaunchOS？ - LaunchOS",
+      "text_characters": 2008,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/zh/creator-program/",
+        "/article/zh/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.zh",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/bring-back-launchpad/",
+      "status": 200,
+      "title": "Bring Back Launchpad on Mac | LaunchOS",
+      "text_characters": 13246,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/bring-back-old-launchpad-experience-mac/",
+        "/blog/en/how-to-bring-back-launchpad-on-macos-tahoe/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/compare/",
+      "status": 200,
+      "title": "LaunchOS Comparisons",
+      "text_characters": 1598,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "F4",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/compare/launchos-vs-appgrid/",
+        "/compare/launchos-vs-buholaunchpad/",
+        "/compare/launchos-vs-launchie/",
+        "/compare/launchos-vs-quark-launchpad/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/compare/launchos-vs-appgrid/",
+      "status": 200,
+      "title": "LaunchOS vs AppGrid: The Better Launchpad Alternative for macOS 26 Tahoe",
+      "text_characters": 12277,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "pinyin",
+        "multi-select",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/compare/launchos-vs-buholaunchpad/",
+      "status": 200,
+      "title": "LaunchOS vs BuhoLaunchpad: Which Launchpad alternative is right for you?",
+      "text_characters": 12321,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "backup",
+        "window",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/compare/launchos-vs-launchie/",
+      "status": 200,
+      "title": "LaunchOS vs Launchie: Best Launchpad Replacement for macOS 26",
+      "text_characters": 11782,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "alias",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/compare/launchos-vs-quark-launchpad/",
+      "status": 200,
+      "title": "LaunchOS vs Quark Launchpad: Best Way to Bring Launchpad Back on macOS 26 Tahoe",
+      "text_characters": 12077,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "pinyin",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/faq/",
+      "status": 200,
+      "title": "LaunchOS FAQ: Setup, Trial, Safety, Permissions, and Licensing",
+      "text_characters": 7047,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/cdn-cgi/l/email-protection#88e4e9fde6ebe0e7fbc8faede5e1f0ecedfbe1efe6a6e9f8f8",
+        "/cdn-cgi/l/email-protection#f69a978398959e9985b684939b9f8e9293859f9198d8978686",
+        "/cdn-cgi/l/email-protection#f995988c979a91968ab98b9c9490819d9c8a909e97d7988989",
+        "/cdn-cgi/l/email-protection#fa969b8f9499929589ba889f9793829e9f89939d94d49b8a8a",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/features/",
+      "status": 200,
+      "title": "Features - LaunchOS",
+      "text_characters": 10248,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "backup",
+        "pinyin",
+        "window",
+        "multi-select",
+        "Dock",
+        "alias",
+        "color",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/fullscreen-app-launcher-mac/",
+      "status": 200,
+      "title": "Full-Screen App Launcher for Mac | LaunchOS",
+      "text_characters": 12126,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/launchpad-alternative/",
+      "status": 200,
+      "title": "Best Launchpad Alternative for Mac | LaunchOS",
+      "text_characters": 13520,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/best-launchpad-alternatives-for-macos-26/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/en/why-apple-removed-launchpad/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/launchpad-for-macos-tahoe/",
+      "status": 200,
+      "title": "Launchpad for macOS Tahoe | LaunchOS",
+      "text_characters": 13155,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/launchpad-replacement/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/launchpad-missing/",
+      "status": 200,
+      "title": "Launchpad Missing on Mac? Fixes for macOS 15, 26 & 27",
+      "text_characters": 6121,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "backup",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/launchpad-replacement/",
+      "status": 200,
+      "title": "macOS 27 Golden Gate Launchpad Replacement | LaunchOS",
+      "text_characters": 13555,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/blog/en/did-apple-bring-launchpad-back-in-macos-27/",
+        "/blog/en/how-to-get-launchpad-back-on-macos-26/",
+        "/blog/en/how-to-get-old-launchpad-experience-back-on-macos-27/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/privacy/",
+      "status": 200,
+      "title": "Privacy Policy | LaunchOS",
+      "text_characters": 3052,
+      "feature_topics": [
+        "update"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/release.en",
+      "status": 200,
+      "title": "LaunchOS for Mac - Release Notes",
+      "text_characters": 21055,
+      "feature_topics": [
+        "gesture",
+        "pinch",
+        "folder",
+        "uninstall",
+        "hot corner",
+        "F4",
+        "backup",
+        "pinyin",
+        "window",
+        "multi-select",
+        "Dock",
+        "alias",
+        "color",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": []
+    },
+    {
+      "url": "https://launchosapp.com/release.zh",
+      "status": 200,
+      "title": "LaunchOS for Mac - Release Notes",
+      "text_characters": 6855,
+      "feature_topics": [
+        "F4",
+        "Dock",
+        "launchpad"
+      ],
+      "internal_links": []
+    },
+    {
+      "url": "https://launchosapp.com/resellers/",
+      "status": 200,
+      "title": "LaunchOS Resellers",
+      "text_characters": 716,
+      "feature_topics": [],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/restore-launchpad/",
+      "status": 200,
+      "title": "Restore Launchpad on Mac | LaunchOS",
+      "text_characters": 12712,
+      "feature_topics": [
+        "gesture",
+        "folder",
+        "hot corner",
+        "F4",
+        "backup",
+        "window",
+        "Dock",
+        "update",
+        "launchpad"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    },
+    {
+      "url": "https://launchosapp.com/terms/",
+      "status": 200,
+      "title": "Terms of Use | LaunchOS",
+      "text_characters": 3839,
+      "feature_topics": [
+        "window",
+        "update"
+      ],
+      "internal_links": [
+        "/",
+        "/article/en/creator-program/",
+        "/article/en/free-event/",
+        "/blog/",
+        "/cdn-cgi/l/email-protection",
+        "/cdn-cgi/l/email-protection#aac6cbdfc4c9c2c5d9ead8cfc7c3d2cecfd9c3cdc484cbdada",
+        "/compare/",
+        "/faq/",
+        "/features/",
+        "/privacy/",
+        "/release.en",
+        "/resellers/",
+        "/terms/"
+      ]
+    }
+  ]
+}
